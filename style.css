@@ -6,88 +6,22 @@
 	text-align: center;
 }
 
-#intro {
-	width: 500px;
-	margin-left: auto;
-	margin-right: auto;
-	background-color: 	#FFFFF0;
-	padding: 10px;
-	position: absolute;
-	top: 140px;
-	left: 16px;
-	font-size: 18px;
-	border-style: solid;
-	border-width: 1px;
-}	
-
-#hobby {
-	width: 500px;
-	margin-left: auto;
-	margin-right: auto;
-	background-color:  	#FFFFF0;
-	padding: 10px;
-	position: absolute;
-	top: 140px;
-	right: 16px;
-	font-size: 18px
-	border-width: 1px;
-	border-style: solid;
-	z-index: 1;
-	border-width: 1px;
-}	
-
-
-#space1 {
-	width: 500px;
-	clear: both;
-	margin-left: auto;
-	margin-right: auto;
-	float: right;
-	
+#NavS {
+	position: absolut;
+	left: 0;
+	top: 30%;
 	
 }
 
-#familie {
-	width: 500px;
-	clear: both;
-	margin-left: auto;
-	margin-right: auot;
-	background-color: 	#FFFFF0;
-	padding: 10px;
-	position: absolute;
-    bottom: 8px;
-    left: 16px;
-    font-size: 18px;
-	border-style: solid;
-	border-width: 1px;
-	
-}
-
-#center {
-	width: 300px;
+#contentS {
+		width: 300px;
 	margin-left: auto;
 	margin-right: auto;
-	background-color:	 #FFFFF0;
 	position: absolute;
     left: 0;
-    top: 50%;
+    top: 25%;
     width: 100%;
     text-align: center;
-    font-size: 18px;
-	border-style: solid;
-	border-width: 1px;
-}	
-
-#intresse {
-	width: 500px;
-	clear: both;
-	margin-left: auto;
-	margin-right: auot;
-	background-color: 	#FFFFF0;
-	padding: 10px;
-	position: absolute;
-    bottom: 8px;
-    right: 16px;
     font-size: 18px;
 	border-style: solid;
 	border-width: 1px;
